@@ -1,0 +1,23 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TEST">
+    <test name="DIVIDE">
+        <classes>
+            <class name="Dividing"></class>
+        </classes>
+    </test>
+    <test name="MINUS">
+        <classes>
+            <class name="Substracting"></class>
+        </classes>
+    </test>
+    <test name="PLUS">
+        <classes>
+            <class name="Summaring"></class>
+        </classes>
+    </test>
+    <test name="MULTIPLY">
+        <classes>
+            <class name="Summaring"></class>
+        </classes>
+    </test>
+</suite>
